@@ -1,0 +1,9 @@
+###
+POST http://localhost:5000/api/reg
+Content-Type: application/json
+
+
+{
+    "username":"lokesh",
+    "password":"123"
+}
